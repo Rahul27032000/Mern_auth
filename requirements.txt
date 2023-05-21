@@ -1,0 +1,15 @@
+** Server **
+1. User Modeltable 
+2. Register Route (create a new user)
+    1. hash password
+3. login User
+    1. with jwt
+4. Authenticate user middleware
+5. logout user
+
+
+** Client **
+1. Register form (with input check)
+2. login form
+3. logout button in nav if user is Authenticate
+4. responsive navbar
